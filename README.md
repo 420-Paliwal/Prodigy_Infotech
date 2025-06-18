@@ -57,10 +57,8 @@ This project can be deployed using any static host like:
 
 ---
 
-## 🖼️ Screenshots
 ## 🖼️ Screenshot
-
-![Homepage Screenshot](img/Screenshot_2025-06-18_155519.png)
+![Homepage showing Prodigy Infotech landing page with navigation bar, internship cards, about section, and footer. The layout is clean and modern with a blue and white color scheme. Text visible includes Prodigy Infotech, Internship Opportunities, Web Development, Data Science, About, and company contact details. The overall tone is professional and welcoming.](img/Screenshot%202025-06-18%20155519.png)
 
 <!-- ![Data Science Card](img/michael-dziedzic-aQYgUYwnCsM-unsplash.jpg) -->
 
