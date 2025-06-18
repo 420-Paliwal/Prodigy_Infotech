@@ -58,8 +58,8 @@ This project can be deployed using any static host like:
 ---
 
 ## 🖼️ Screenshots
-![Hero Section](img/marvin-meyer-SYTO3xs06fU-unsplash.jpg)
-![Data Science Card](img/michael-dziedzic-aQYgUYwnCsM-unsplash.jpg)
+![Hero Section](img/Screenshot 2025-06-18 155519.png)
+<!-- ![Data Science Card](img/michael-dziedzic-aQYgUYwnCsM-unsplash.jpg) -->
 
 ---
 
