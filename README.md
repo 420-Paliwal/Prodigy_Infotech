@@ -58,7 +58,10 @@ This project can be deployed using any static host like:
 ---
 
 ## 🖼️ Screenshots
-![Hero Section](img/Screenshot 2025-06-18 155519.png)
+## 🖼️ Screenshot
+
+![Homepage Screenshot](img/Screenshot_2025-06-18_155519.png)
+
 <!-- ![Data Science Card](img/michael-dziedzic-aQYgUYwnCsM-unsplash.jpg) -->
 
 ---
